@@ -16,5 +16,14 @@ namespace IfProjectName_001
 
 
         }
+
+        //{ 2023. 07. 03. Add PlusNumber Method //Ahapa
+        public int PlusNum(int num1 ,int num2 )
+        {
+
+
+            return num1 + num2;
+        }
+        //} 2023. 07. 03. Add PlusNumber Method //Ahapa
     }
 }
